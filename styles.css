@@ -1,0 +1,51 @@
+body { 
+    background-color:black;
+    margin:0;
+    
+}
+/*div {
+    box-sizing:border-box;
+}*/
+.container {
+    display:flex;
+    width: 600px;
+    margin:auto;
+    background-color: white;
+}
+
+
+.postheader  {
+    display:flex;
+    align-items:center;
+    background-color: aqua;
+}
+            h4 {margin:0;
+            }
+            i {color: gray
+            }
+            
+            .profile-picture {
+                background: none; /* Elimina cualquier fondo */
+            }
+            
+            .profile-picture img {
+                width: 50px;  /* Tamaño de la imagen */
+                height: 50px;
+               /* border-radius: 50%;  Imagen circular */
+                display: block;
+                margin: 0%;
+                padding: 0%;
+                border: none;
+            }
+
+            .last-child{padding-left: 1%;}
+
+.post{ 
+    background-color: white;
+} 
+.post-body {
+    padding: 1%;
+
+}
+
+
